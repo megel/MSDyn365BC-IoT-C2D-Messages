@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "waldo.crs-al-language-extension",
+        "vsciot-vscode.azure-iot-toolkit",
+        "microsoft.al"        
+    ]
+}

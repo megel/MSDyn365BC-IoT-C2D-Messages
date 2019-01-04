@@ -1,0 +1,22 @@
+{
+    "id": "72c4f548-91be-43db-b45b-73c6b2373feb",
+    "name": "IoT-Cloud2Device-Message",
+    "publisher": "Michael Megel",
+    "version": "1.0.0.0",
+    "brief": "Microsoft Dynamics 365 Business Central - IoT Cloud-2-Device Messages",
+    "description": "Send IoT Cloud-2-Device messages from Business Central",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "13.0.0.0",
+    "application": "13.0.0.0",
+    "idRange": {
+        "from": 50100,
+        "to": 50149
+    },
+    "capabilities": [],
+    "features": ["TranslationFile"],
+    "runtime": "2.2"
+}

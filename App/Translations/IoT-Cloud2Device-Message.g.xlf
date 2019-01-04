@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="IoT-Cloud2Device-Message">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 1743730017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IoT C2D Response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME IoT C2D Factbox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1743730017 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Message Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME IoT C2D Factbox - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1743730017 - Control 1871257386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME IoT C2D Factbox - Control grpMessage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2737376963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IoT C2D Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME IoT C2D Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2737376963 - Control 3857116967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IoT Hub</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME IoT C2D Message - Control IoT Hub - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2737376963 - Control 2751478715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hub URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME IoT C2D Message - Control HubUri - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2737376963 - Control 1641735692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SaS Token</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME IoT C2D Message - Control Authorization Token - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2737376963 - Control 2540671662 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>IoT Device</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME IoT C2D Message - Control IoT Device - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2737376963 - Control 1613214047 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Device ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME IoT C2D Message - Control Device Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2737376963 - Control 4132733409 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Device Method</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME IoT C2D Message - Control Method - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2737376963 - Control 3386707898 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>C2D Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME IoT C2D Message - Control C2D Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2737376963 - Action 1484716406 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send C2D Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME IoT C2D Message - Action Send C2D Message - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
